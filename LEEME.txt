@@ -1,13 +1,11 @@
-GUIAS DE TRABAJO
+GUÍAS DE TRABAJO · VERSIÓN 3.0
+17 guías de compras, inventarios y nómina.
+La página de entrada es index.html. Conserva la carpeta imagenes a su lado.
+Cada guía recuerda su avance en el navegador. El buscador permite localizar trámites.
+Las guías orientan: los registros y aprobaciones se realizan en el sistema de la empresa.
 
-Incluye las tres guías: facturas, solicitudes de pedido y caja chica.
-
-Para probarlas en tu computadora:
-1. Extrae todo el ZIP.
-2. Abre index.html con doble clic.
-3. Conserva la carpeta imagenes junto a index.html.
-
-Para subir a GitHub:
-Extrae el ZIP y sube su contenido: index.html y la carpeta imagenes, conservando ese nombre y estructura. El ZIP es solo el paquete de entrega; no reemplaza esos archivos dentro del repositorio.
-
-Las imágenes se optimizaron sin pérdida: conservan sus píxeles y resolución originales. Las guías pueden consultarse sin internet después de extraer el paquete.
+NOTAS DE REVISIÓN
+RH-I-09 invierte las descripciones de los códigos 025 y 026 entre dos apartados.
+La guía pide confirmarlos con Nóminas antes de utilizarlos.
+Las capturas muestran ejemplos de fechas y personas; se deben usar los datos reales.
+Se conserva el contenido de las tres guías anteriores, incluido el paso 24 de adjuntos.
