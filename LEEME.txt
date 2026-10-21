@@ -1,0 +1,13 @@
+GUIAS DE TRABAJO
+
+Incluye las tres guías: facturas, solicitudes de pedido y caja chica.
+
+Para probarlas en tu computadora:
+1. Extrae todo el ZIP.
+2. Abre index.html con doble clic.
+3. Conserva la carpeta imagenes junto a index.html.
+
+Para subir a GitHub:
+Extrae el ZIP y sube su contenido: index.html y la carpeta imagenes, conservando ese nombre y estructura. El ZIP es solo el paquete de entrega; no reemplaza esos archivos dentro del repositorio.
+
+Las imágenes se optimizaron sin pérdida: conservan sus píxeles y resolución originales. Las guías pueden consultarse sin internet después de extraer el paquete.
